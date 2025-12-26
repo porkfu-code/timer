@@ -16,7 +16,7 @@ Example, run a 1 hour, 3 minute, and 4 second timer:
 
 `go build cmd/baseTimer/baseTimer.go`
 
-# To run the binary
+## To run the binary
 
 Run it just like the `go run ...` example above:
 
@@ -27,4 +27,4 @@ Example, run a 1 hour, 3 minute, and 4 second timer:
 `./baseTimer -H 1 -M 3 -S 4`
 
 ## Stop the timer
-Just use ctrl-c I guess.
+Just use ctrl+c I guess.
