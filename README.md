@@ -1,6 +1,7 @@
 # timer
 
-This is a simple countdown timer. It displays the remaining timer time in CLI like:
+This is a simple countdown timer. It displays the remaining timer time in CLI with the format HH:MM:SS. Example:
+
 `Remaining time: 00:59:06`
 
 ## To use it:
